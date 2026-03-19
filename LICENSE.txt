@@ -1,0 +1,50 @@
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+
+Copyright © 2026 Tudorel Moraru
+https://github.com/tauguru/probabilis
+https://probabilis.io
+
+=======================================================================
+
+Creative Commons Corporation ("Creative Commons") is not a law firm and
+does not provide legal services or legal advice. Distribution of
+Creative Commons public licenses does not create a lawyer-client or
+other relationship. Creative Commons makes its licenses and related
+information available on an "as-is" basis. Creative Commons gives no
+warranties regarding its licenses, any material licensed under their
+terms and conditions, or any related information. Creative Commons
+disclaims all liability for damages resulting from their use to the
+fullest extent possible.
+
+License: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+
+=======================================================================
+
+You are free to:
+
+  Share — copy and redistribute the material in any medium or format.
+
+Under the following terms:
+
+  Attribution — You must give appropriate credit, provide a link to
+  the license, and indicate if changes were made. You may do so in any
+  reasonable manner, but not in any way that suggests the licensor
+  endorses you or your use.
+
+  NonCommercial — You may not use the material for commercial purposes
+  without written permission from the author.
+
+  NoDerivatives — If you remix, transform, or build upon the material,
+  you may not distribute the modified material. Translations require
+  explicit permission from the author via an approved GitHub Issue.
+
+  No additional restrictions — You may not apply legal terms or
+  technological measures that legally restrict others from doing
+  anything the license permits.
+
+=======================================================================
+
+For commercial use permissions, contact the author via:
+https://github.com/tauguru/probabilis/issues
+https://probabilis.io
+https://ca.linkedin.com/in/tudorel-moraru-m-sc-a355361a
