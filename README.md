@@ -1,40 +1,40 @@
 # PROBABILIS
 
-### A framework for software development in the age of AI
+### Un cadre pour le développement logiciel à l'ère de l'IA
 
-*From deterministic to probabilistic.*
+*Du déterministe au probabiliste.*
 
-🇬🇧 EN · [🇫🇷 FR](https://github.com/tauguru/probabilis/tree/fr) · [🇷🇴 RO](https://github.com/tauguru/probabilis/tree/ro) · 🌐 [probabilis.io](https://probabilis.io)
-
----
-
-## Contents
-
-- [Manifesto](manifesto/README.md) — Values, principles, anti-patterns, context
-- [Methodology](methodology/README.md) — How to apply the principles *(coming soon)*
-- [Artifacts](artifacts/) — Practical templates and tools *(coming soon)*
-- [Cases](cases/) — Real-world application examples *(coming soon)*
+[🇬🇧 EN](https://github.com/tauguru/probabilis) · 🇫🇷 FR · [🇷🇴 RO](https://github.com/tauguru/probabilis/tree/ro) · 🌐 [probabilis.io](https://probabilis.io)
 
 ---
 
-## Overview
+## Contenu
 
-Software development is entering a new era. Artificial intelligence is now a fundamental component of solutions. By its very probabilistic nature, it introduces variance, uncertainty, and drift into historically deterministic systems.
-
-Existing methodologies — Agile, ITIL, TOGAF — were designed for a deterministic world. Probabilis is a complement to the reality of development with artificial intelligence.
-
----
-
-## Community
-
-- [Contributing](CONTRIBUTING.md)
-- [Translations](TRANSLATIONS.md)
-- [Changelog](CHANGELOG.md)
-- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Manifeste](manifesto/README.md) — Valeurs, principes, anti-patterns, contexte
+- [Méthodologie](methodology/README.md) — Comment appliquer les principes *(à venir)*
+- [Artefacts](artifacts/) — Modèles pratiques et outils *(à venir)*
+- [Cas](cases/) — Exemples d'application réels *(à venir)*
 
 ---
 
-*Version 1.0 — March 2026*
+## Aperçu
+
+Le développement logiciel entre dans une nouvelle ère. L'intelligence artificielle est désormais une composante fondamentale des solutions. De par sa nature probabiliste, elle introduit de la variance, de l'incertitude et de la dérive dans des systèmes historiquement déterministes.
+
+Les méthodologies existantes — Agile, ITIL, TOGAF — ont été conçues pour un monde déterministe. Probabilis est un complément à la réalité du développement avec l'intelligence artificielle.
+
+---
+
+## Communauté
+
+- [Contribuer](CONTRIBUTING.md)
+- [Traductions](TRANSLATIONS.md)
+- [Journal des modifications](CHANGELOG.md)
+- [Code de conduite](CODE_OF_CONDUCT.md)
+
+---
+
+*Version 1.0 — Mars 2026*
 
 © 2026 Tudorel Moraru
-[Probabilis Manifesto](https://github.com/tauguru/probabilis) · [probabilis.io](https://probabilis.io) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[Probabilis Manifeste](https://github.com/tauguru/probabilis/tree/fr) · [probabilis.io](https://probabilis.io) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)

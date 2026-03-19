@@ -1,128 +1,122 @@
 # PROBABILIS
 
-### Manifesto for Software Development in the Age of AI
+### Manifeste pour le développement logiciel à l'ère de l'IA
 
-*From deterministic to probabilistic.*
+*Du déterministe au probabiliste.*
 
-🇬🇧 EN · [🇫🇷 FR](https://github.com/tauguru/probabilis/tree/fr) · [🇷🇴 RO](https://github.com/tauguru/probabilis/tree/ro) · 🌐 [probabilis.io](https://probabilis.io)
+[🇬🇧 EN](https://github.com/tauguru/probabilis/blob/main/manifesto/README.md) · 🇫🇷 FR · [🇷🇴 RO](https://github.com/tauguru/probabilis/tree/ro) · 🌐 [probabilis.io](https://probabilis.io)
 
 ---
 
-## MANIFESTO
+## MANIFESTE
 
-We are uncovering better ways of developing software by integrating
-artificial intelligence as a fundamental component of solutions. Through
-this work we have come to value:
+Nous découvrons de meilleures façons de développer des logiciels en intégrant l'intelligence artificielle
+comme composante fondamentale des solutions. À travers ce travail, nous en sommes venus à valoriser :
 
-| | We value | | over |
+| | Nous valorisons | | plus que |
 |---|---|---|---|
-| **1** | **Progressive refinement** | *over* | immediate perfection |
-| **2** | **Discernment in human-AI allocation** | *over* | automation by default |
-| **3** | **Measurable probabilistic performance** | *over* | deterministic binary compliance |
-| **4** | **Transparency of limitations** | *over* | the promise of certainty |
+| **1** | **Le raffinement progressif** | *plus que* | la perfection immédiate |
+| **2** | **Le discernement dans la répartition humain-IA** | *plus que* | l'automatisation par défaut |
+| **3** | **La performance probabiliste mesurable** | *plus que* | la conformité déterministe binaire |
+| **4** | **La transparence des limites** | *plus que* | la promesse de certitude |
 
-*That is, while there is value in the items on the right, we value the items on the left more.*
+*C'est-à-dire que, bien que les éléments à droite aient de la valeur, nous accordons davantage de valeur aux éléments à gauche.*
 
 ---
 
-## Twelve Principles of Probabilis Development
+## Douze principes du développement Probabilis
 
-### Governance
+### Gouvernance
 
-**1.** Human judgment remains sovereign. AI augments human capability; it does not
-replace human accountability.
+**1.** Le jugement humain reste souverain. L'IA augmente la capacité humaine ; elle ne remplace pas
+l'imputabilité humaine.
 
-**2.** Defining what AI must not do is as important as defining what it must do.
+**2.** Définir ce que l'IA ne doit pas faire est aussi important que définir ce qu'elle doit faire.
 
-**3.** AI-augmented decisions must be traceable, explainable, and auditable to the
-degree required by the context of their impact.
+**3.** Les décisions augmentées par l'IA doivent être traçables, explicables et auditables dans la
+mesure requise par le contexte de leur impact.
 
-**4.** Any system integrating AI must provide a degraded operating mode without AI
-that maintains service continuity.
+**4.** Tout système intégrant l'IA doit prévoir un mode de fonctionnement dégradé sans IA qui maintient
+la continuité du service.
 
-### Quality
+### Qualité
 
-**5.** Accept variance as a property of the system, not as a defect to be eliminated.
-Every AI component must operate under an explicit probabilistic contract: acceptability
-threshold, tolerated variance range, degradation conditions, and fallback mechanism.
+**5.** Accepter la variance comme une propriété du système, pas comme un défaut à éliminer.
+Tout composant IA doit opérer sous un contrat probabiliste explicite : seuil d'acceptabilité, plage
+de variance tolérée, conditions de dégradation, et mécanisme de repli.
 
-**6.** The simplest solution that meets the quality threshold is the best solution.
+**6.** La solution la plus simple qui atteint le seuil de qualité est la meilleure solution.
 
-**7.** The requirements of a probabilistic solution demand a new grammar: performance
-ranges, tolerances, and failure modes.
+**7.** Les exigences d'une solution probabiliste nécessitent une nouvelle grammaire : plages de
+performance, tolérances et modes de défaillance.
 
-**8.** Reproducibility in a probabilistic system is measured by the statistical
-stability of results, not by the identity of outputs.
+**8.** La reproductibilité dans un système probabiliste se mesure par la stabilité statistique des
+résultats, pas par l'identité des sorties.
 
-### Operations
+### Opérations
 
-**9.** Version prompts, models, and parameters with the same rigour as source code.
+**9.** Versionner les prompts, les modèles et les paramètres avec la même rigueur que le code source.
 
-**10.** A system that works today may drift tomorrow. Plan for drift.
+**10.** Un système qui fonctionne aujourd'hui peut dériver demain. Planifier pour la dérive.
 
-**11.** The probabilistic nature of the solution demands that monitoring be built into it.
+**11.** La nature probabiliste de la solution exige que la surveillance y soit intégrée.
 
-**12.** Development with AI is iterative by nature: every human-AI interaction is a
-refinement loop, not a single transaction.
+**12.** Le développement avec l'IA est itératif par nature : chaque interaction humain-IA est une boucle
+de raffinement, pas une transaction unique.
 
 ---
 
 ## Anti-patterns
 
-Probabilis explicitly rejects the following practices:
+Probabilis rejette explicitement les pratiques suivantes :
 
-**✗** AI as an unquestioned black box with no oversight.
+**✗** L'IA comme boîte noire acceptée sans surveillance ni questionnement.
 
-**✗** Prompt engineering as a substitute for software architecture.
+**✗** L'ingénierie de prompt comme substitut à l'architecture logicielle.
 
-**✗** Automation by default: automating because you can, without evaluating whether you should.
+**✗** L'automatisation par défaut : automatiser parce qu'on peut, sans évaluer si on doit.
 
-**✗** Simulated certainty: presenting probabilistic results as deterministic.
+**✗** La certitude simulée : présenter des résultats probabilistes comme déterministes.
 
-**✗** No fallback: deploying an AI component without a human degraded mode.
+**✗** L'absence de mécanisme de repli : déployer un composant IA sans mode dégradé humain.
 
-**✗** Set and forget: deploying an AI system without planning for drift monitoring.
-
----
-
-## Context
-
-Software development is entering a new era. Artificial intelligence is
-now a fundamental component of solutions. By its very probabilistic
-nature, it introduces variance, uncertainty, and drift into historically
-deterministic systems. This shift has a name: the transition from
-deterministic to probabilistic.
-
-Existing methodologies — Agile, ITIL, TOGAF, and their variants —
-were designed for a deterministic world where the same inputs always
-produce the same outputs. AI breaks this assumption. Outputs vary,
-requirements become ranges, quality is measured statistically, and
-systems drift silently.
-
-Probabilis — from the Latin *probābilis*, plausible. In the 17th
-century, probabilism addressed a fundamental question: how to act with
-rigour when certainty is out of reach. Four centuries later, artificial
-intelligence poses the same question to software development.
-
-This manifesto proposes a framework to answer it. Neither a replacement
-for existing methodologies nor a rejection of their achievements:
-rather a complement to the reality of development with artificial
-intelligence.
+**✗** Le « set and forget » : déployer un système IA sans planifier la surveillance de la dérive.
 
 ---
 
-## Contribute
+## Contexte
 
-We welcome contributions. See [CONTRIBUTING.md](../CONTRIBUTING.md) for guidelines.
+Le développement logiciel entre dans une nouvelle ère. L'intelligence artificielle est désormais une
+composante fondamentale des solutions. De par sa nature probabiliste, elle introduit de la variance,
+de l'incertitude et de la dérive dans des systèmes historiquement déterministes. Ce changement a un
+nom : le passage du déterministe au probabiliste.
+
+Les méthodologies existantes — Agile, ITIL, TOGAF et leurs variantes — ont été conçues pour un monde
+déterministe où les mêmes entrées produisent toujours les mêmes sorties. L'IA brise cette hypothèse.
+Les résultats varient, les exigences deviennent des plages, la qualité se mesure en statistiques, et
+les systèmes dérivent silencieusement.
+
+Probabilis — du latin *probābilis*, vraisemblable. Au XVIIe siècle, le probabilisme répondait à une
+question fondamentale : comment agir avec rigueur quand la certitude est hors de portée. Quatre siècles
+plus tard, l'intelligence artificielle pose la même question au développement logiciel.
+
+Ce manifeste propose un cadre pour y répondre. Ni remplacement des méthodologies existantes, ni rejet
+de leurs acquis : plutôt un complément à la réalité du développement avec l'intelligence artificielle.
 
 ---
 
-## License
+## Contribuer
 
-© 2026 Tudorel Moraru. This work is licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](../LICENSE).
-Commercial use requires written permission from the author. The official version is published at [probabilis.io](https://probabilis.io).
+Les contributions sont les bienvenues. Consultez [CONTRIBUTING.md](../CONTRIBUTING.md) pour les directives.
 
 ---
 
-*Version 1.0 — March 2026*
+## Licence
+
+© 2026 Tudorel Moraru. Cette œuvre est sous licence [Creative Commons Attribution-Pas d'Utilisation Commerciale-Pas de Modification 4.0 International (CC BY-NC-ND 4.0)](../LICENSE.txt).
+L'utilisation commerciale nécessite l'autorisation écrite de l'auteur. La version officielle est publiée sur [probabilis.io](https://probabilis.io).
+
+---
+
+*Version 1.0 — Mars 2026*
 *Tudorel Moraru*
